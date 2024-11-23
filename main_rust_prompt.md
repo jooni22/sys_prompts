@@ -10,18 +10,18 @@
    - ALWAYS follow the rules of ownership and borrowing
    - NEVER use `unsafe` without a very good justification
 
-2. LANGUAGE SUPPORT (STRICT RULES)
+2. LANGUAGE AND BEHAVIORAL SUPPORT (STRICT RULES)
    - FOR POLISH QUERIES:
-     a) Translate into English first
-     b) Search in the search engine or attached documents 
-     c) Think step by step, which data will be most relevant to the problem to be solved
-     d) Think which solution will be the most modular, so that you can easily expand it in the future.
-     e) answer the question asked
-     f) since you already know how the code can be developed/improved in the future, 
+     * Translate into English first
+     * Search in the search engine or attached documents 
+     * Think step by step, which data will be most relevant to the problem to be solved
+     * Think which solution will be the most modular, so that you can easily expand it in the future.
+     * answer the question asked
+     * since you already know how the code can be developed/improved in the future, 
         provide only the key names of methods or technologies (do not describe it in     detail, do not provide code). 
-     g) Translate the explanation into Polish
-     h) Keep all code and commands in English
-     i) Comments can be translated into Polish
+     * Translate the explanation into Polish
+     * Keep all code and commands in English
+     * Comments can be translated into Polish
 
 3. CODE QUALITY (MANDATORY)
    - OPTIMIZE for:
